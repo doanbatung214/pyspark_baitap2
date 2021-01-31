@@ -108,4 +108,8 @@ Cả hai ứng dụng Lặp (Iterative) và Tương tác (Interactive) đều y�
 <p align="center"> Interactive Operation trên Spark RDD </p>
 
 <p align="center"> <img src ="https://user-images.githubusercontent.com/77916314/106388337-99f29b80-6410-11eb-8678-6249042bde2e.png" />
-<p align="center"> Một số properties ứng dụng </p>
+
+<p align="center"> <img src ="https://user-images.githubusercontent.com/77916314/106388478-43399180-6411-11eb-9480-78a2afd844ac.png" />
+
+
+<p align="center"> <img src ="https://user-images.githubusercontent.com/77916314/106388534-8267e280-6411-11eb-8716-81b25446256c.png" />
